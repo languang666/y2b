@@ -1,11 +1,11 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
+define('APIKEY', 'AIzaSyCi1GbgmPiPDgydl-SF74ueDHX7e77Gros');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
+define('SITE_NAME', 'youtube');
+define('TITLENAME', 'youtube');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
+define('EMAIL', '1582519221a@gmail.com');
 define('NAME', 'admin');
 define('PASSWORD', 'admin');
 define('LOGINHTML', '<!DOCTYPE html>
